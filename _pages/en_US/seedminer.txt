@@ -39,7 +39,7 @@ There are two different methods for building on the Seedminer exploit (described
   + If you see multiple folders with long, random names inside `Nintendo 3DS` without opening any other folders, perform the following:
   + Rename the `Nintendo 3DS` folder to `BACKUP_Nintendo 3DS`
   + Reinsert your SD card into your device and power on your device
-  + Wait for the device to generate the SD card data
+  + Wait for the "Creating HOME Menu management data" to disappear
   + Power off your device and reinsert your SD card into your computer
   + Navigate to the `Nintendo 3DS` folder on your SD card
   + Copy the 32 character long name of the folder you see
